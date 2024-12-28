@@ -1,6 +1,6 @@
 # Machine-Learning
 
-Worked on the following machine learning projects:
+Engaged in the following machine learning projects:
 * A Binary Classifier of vertebral column dataset using K-Nearest-Neighbors. 
 * A Linear, Multiple, and KNN Regressor to predict the Electrical Energy Output of Combined Cycle Power Plant. 
 * A classifier of human activities based on time series obtained by a WirelessSensor Network. 
